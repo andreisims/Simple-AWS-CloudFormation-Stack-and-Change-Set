@@ -12,11 +12,16 @@
 
 -Select Choose existing template. We will upload a template file (EC2Instance YAML file). The instanceID will need to be changed to the current version, and then save the file. You can locate the current ImageID version on the console dashboard (EC2>launch instance> Amazon Linux 2>ami#)
 
-![instanceID](https://github.com/user-attachments/assets/7cc1b572-0924-4ad9-8916-49b10248e8ab)
+![instanceID](https://github.com/user-attachments/assets/b760503d-6ed2-444f-869e-0ddb9d75964c)
 
-![EC2 upload2](https://github.com/user-attachments/assets/e0ec9a70-0863-42e2-b539-1833a0568c29)
 
+![updated instanceID](https://github.com/user-attachments/assets/a37fcbf6-1918-4040-9397-86a00f6bd445)
 
 ![EC2 upload](https://github.com/user-attachments/assets/4b0f6a65-d97d-400f-903d-e76b8fff8ffa)
+
+-Give stack a name (myInstancestack). click next. leave all the defaults. next. Scroll to the bottom. Click submit
+
+![created stack](https://github.com/user-attachments/assets/91e895ec-f3e8-4a21-8364-632ba474c6e2)
+
 
 

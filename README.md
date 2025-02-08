@@ -69,7 +69,7 @@
 
 ![us-west instance](https://github.com/user-attachments/assets/1f69bb3f-8241-4aa8-83ac-59d694e1b4aa)
 
--now we can delete the stack 7:00 and view and upload the EC2InstanceParameter file for a new stack
+-now we can delete the stack, view and upload the EC2InstanceParameter file for a new stack
 
 ![delete stack](https://github.com/user-attachments/assets/75455c21-8af0-4d53-8692-aab42ee00cb1)
 
